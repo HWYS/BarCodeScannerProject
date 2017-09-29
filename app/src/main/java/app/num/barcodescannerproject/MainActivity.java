@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements ZXingScannerView.
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+        //Second Commit
 
     }
 
